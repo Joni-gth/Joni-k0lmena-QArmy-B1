@@ -1,3 +1,3 @@
-export const inputLabel = 'Buscar productos, marcas y má';
-export const buttonSearch = 'div.nav-icon-search';
-export const divResult = 'Autos, Motos y OtrosAutos y';
+export const performanceText = 'Prueba de Performance';
+export const changelog = 'Change Log';
+export const version = 'version 2.0.0';
