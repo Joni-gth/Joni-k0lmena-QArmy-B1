@@ -40,6 +40,6 @@ When('El usuario cliquea la version 2.0', async function () {
 
 Then('El usuario ve la informacion de la version 2.0', async function () {
   for (const page of pages) {
-    expect(validateFirstLocator(page, "div", version)).toBeTruthy();
+    expect(validateFirstLocator(page, "div", performanceText)).toBeTruthy();
   }
 });
